@@ -43,7 +43,7 @@ ul {
 
 .game {
   display: flex;
-  justify-self: center;
+  justify-content: center;
   flex-direction: row;
 }
 
